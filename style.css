@@ -1,0 +1,19 @@
+*{
+    margin: 10px;}
+
+img{
+    width: 200px;
+}
+
+.cards{
+    border: solid 1px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    border: solid 1px;
+    width: 450px;
+    height: 660px;
+}
