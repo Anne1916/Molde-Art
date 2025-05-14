@@ -3,6 +3,8 @@
 
 img{
     width: 200px;
+    border: 2px solid purple;
+    border-radius: 100px;
 }
 
 .cards{
@@ -17,3 +19,5 @@ img{
     width: 450px;
     height: 660px;
 }
+
+
